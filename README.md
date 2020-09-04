@@ -1,4 +1,4 @@
-### MERLIN-P+TFA
+## MERLIN-P+TFA
 
 MERLIN-P+TFA is a framework for network inference that combines estimated TFA and prior network to infer networks.
 
@@ -22,7 +22,7 @@ We infer networks in a stability selection framework (see [Siahpirani & Roy NAR 
 
 If the expression matrix includes TFA regulators (with \_nca suffix) depending on downstream analysis we may need to collapse TFA and expression interactions to max confidence. 
 
-### Datasets and Results
+## Datasets and Results
 
 mESC datasets:
 --------------
