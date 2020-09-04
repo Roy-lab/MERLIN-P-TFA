@@ -24,7 +24,7 @@ If the expression matrix includes TFA regulators (with \_nca suffix) depending o
 
 ## Datasets and Results
 
-mESC datasets:
+### mESC datasets:
 --------------
 
 * Expression dataset: exp/
@@ -35,7 +35,7 @@ mESC datasets:
 * Motif prior network: prior.txt.gz
 
 
-Yeast datasets:
+### Yeast datasets:
 ---------------
 
 * Expression dataset: exp.txt.gz 
@@ -45,7 +45,7 @@ Yeast datasets:
 * Inferred networks (TFA/Exp edges collapsed): inferred_collapsed/
 * Motif prior network: prior.txt.gz
 
-Supplementary XLSX files:
+### Supplementary XLSX files:
 -------------------------
 
 * mESC samples: SF01_all_mESC_samples.xlsx
