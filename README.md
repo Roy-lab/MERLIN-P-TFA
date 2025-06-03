@@ -1,4 +1,4 @@
-## MERLIN-P+TFA
+## MERLIN-P-TFA
 
 MERLIN-P+TFA is a framework for network inference that combines estimated TFA and prior network to infer networks.
 
